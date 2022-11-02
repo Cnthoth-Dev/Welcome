@@ -1,3 +1,3 @@
 # Welcome
-Welcome to CnThoth Development
+Welcome to C&Thoth Development
 Commit.
